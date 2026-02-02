@@ -16,7 +16,7 @@ The goal is to make public safety data more accessible and easier to explore thr
 
 Interactive map centered on Chicago
 
-1. Severity-based visualization
+1. Severity-based visualization:
 🔵 Minor crashes
 🟢 Moderate crashes
 🔴 Severe crashes
@@ -28,17 +28,25 @@ Interactive map centered on Chicago
 ## How Severity Is Defined
 
 Crash severity is derived from injury data:
+
 Severe: Fatal or incapacitating injuries
+
 Moderate: Non-incapacitating injuries
+
 Minor: No reported injuries
+
 This logic allows the visualization to reflect real-world impact rather than raw crash counts alone.
 
 ## Tech Stack
 
 Python
+
 Streamlit — web app framework
+
 Folium — interactive maps (Leaflet.js)
+
 Pandas — data cleaning & processing
+
 streamlit-folium — Streamlit ↔ Folium integration
 
 ## Future Improvements
@@ -53,6 +61,8 @@ streamlit-folium — Streamlit ↔ Folium integration
 Chicago Open Data Portal — Traffic Crash Records
 (Data used for educational and visualization purposes)
 
+### “Due to file size limits, the dataset is not included in this repository.”
+
 ## App Preview
 
 ![Map Overview](screenshots/map_overview.png)
@@ -65,5 +75,7 @@ Chicago Open Data Portal — Traffic Crash Records
 ## Author
 
 Benedicta Nzekwe
+
 Software Engineering & Data Science Enthusiast 
+
 Focused on building technology for public safety and social impact.
