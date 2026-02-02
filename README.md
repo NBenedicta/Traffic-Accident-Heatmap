@@ -1,4 +1,4 @@
-# Traffic Accident Severity Map — Chicago
+# Traffic Accident Severity Map - Chicago
  
 An interactive geospatial dashboard that visualizes traffic accidents in Chicago, categorized by crash severity.
 Built to help users explore where severe, moderate, and minor crashes occur across the city.
@@ -41,13 +41,13 @@ This logic allows the visualization to reflect real-world impact rather than raw
 
 Python
 
-Streamlit — web app framework
+Streamlit: web app framework
 
-Folium — interactive maps (Leaflet.js)
+Folium: interactive maps (Leaflet.js)
 
-Pandas — data cleaning & processing
+Pandas: data cleaning & processing
 
-streamlit-folium — Streamlit ↔ Folium integration
+streamlit-folium: Streamlit ↔ Folium integration
 
 ## Future Improvements
 
@@ -58,7 +58,7 @@ streamlit-folium — Streamlit ↔ Folium integration
 
 ## Data Source
 
-Chicago Open Data Portal — Traffic Crash Records
+Chicago Open Data Portal: Traffic Crash Records
 (Data used for educational and visualization purposes)
 
 “Due to file size limits, the dataset is not included in this repository.”
