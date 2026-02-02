@@ -1,0 +1,17 @@
+__pycache__/
+
+*.pyc
+
+.venv/
+
+venv/
+
+data/*.csv
+
+*.ipynb
+
+.streamlit/
+
+.DS_Store
+
+Thumbs.db
