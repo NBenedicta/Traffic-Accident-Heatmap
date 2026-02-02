@@ -61,7 +61,7 @@ streamlit-folium — Streamlit ↔ Folium integration
 Chicago Open Data Portal — Traffic Crash Records
 (Data used for educational and visualization purposes)
 
-### “Due to file size limits, the dataset is not included in this repository.”
+“Due to file size limits, the dataset is not included in this repository.”
 
 ## App Preview
 
